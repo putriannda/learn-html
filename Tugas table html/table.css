@@ -1,0 +1,12 @@
+table, th, td {
+    border:  1px solid black;
+    text-align: center;
+}
+.black {
+    background-color: black; color: white;
+}
+.green {background-color: green; color: white;
+
+}
+.special { background-color: green;color: white; text-align: left;}
+.orange { background-color: orangered; color: white;}
